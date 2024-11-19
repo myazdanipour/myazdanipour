@@ -8,7 +8,9 @@ This page is a simple and small portfolio to showcase a selection of my technica
   -  Developing effective <b>dashboards</b> and performing advanced analytics.
 </div>
 <p>
-<a href="https://www.linkedin.com/in/marziyazdani/" target="_blank">Connect on Linked</a> <h align="left"><a href="https://www.linkedin.com/in/marziyazdani/" target="blank"><img alt="LinkedIn" src="https://github.com/myazdanipour/Data-Visualisation/blob/main/images/LinkedIn_logo_initials.png" width=17</h> </a> and see my highlights using the hashtag <B>#FromMyAnalystToolbox</B>
+Connect on <a href="https://www.linkedin.com/in/marziyazdani/" target="_blank">Linked</a> 
+<a href="https://www.linkedin.com/in/marziyazdani/" target="_blank">
+  <img alt="LinkedIn" src="https://github.com/myazdanipour/Data-Visualisation/blob/main/images/LinkedIn_logo_initials.png" width="15" /></a> and see my highlights using the hashtag <B>#FromMyAnalystToolbox</B>
 
 
 
