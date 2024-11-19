@@ -8,11 +8,8 @@ This page is a simple and small portfolio to showcase a selection of my technica
   -  Developing effective <b>dashboards</b> and performing advanced analytics.
 </div>
 <p>
-<h align="left">Connect with me on LinkedIn</2>
-<p align="left">
-<a href="https://www.linkedin.com/in/marziyazdani/" target="_blank">
-        <img alt="LinkedIn" src="https://github.com/myazdanipour/Data-Visualisation/blob/main/images/LinkedIn_logo_initials.png" width=25 height=25></a>
-</p>
+  <h align="left"><a href="https://www.linkedin.com/in/marziyazdani/" target="_blank"><img alt="LinkedIn" src="https://github.com/myazdanipour/Data-Visualisation/blob/main/images/LinkedIn_logo_initials.png" width=20 height=20></a> </h><a href="https://www.linkedin.com/in/marziyazdani/" target="_blank">Let's connect on LinkedIn</a>
+
 
 
 <!---
