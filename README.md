@@ -1,7 +1,12 @@
-- 👋 Hi, I am Marzi, a Business Analyst
-- This profile is under construction :)
-- appreciate your help :))
+<div align="left" size=18>
+ <b><h3> Marzieh Yazdanipour</h3>Business Analyst<hr></b></div></hr></b><br>An experienced Business Analyst with a strong balance of technical expertise and soft skills.
 
+This page is a simple and small portfolio to showcase a selection of my technical abilities, including:
+
+   - Working with <b>data</b> to extract insights and drive decisions.
+   - Proficiency in tools such as <b>SQL</b>, <b>Power BI</b>, and <b>Excel</b>.
+  -  Developing effective <b>dashboards</b> and performing advanced analytics.
+</div>
 
 <!---
 myazdanipour/myazdanipour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
