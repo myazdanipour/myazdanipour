@@ -1,4 +1,4 @@
-<div align="left" size=18>
+<div align="left">
  <b><h3> Marzieh Yazdanipour</h3>Business Analyst<hr></b></div></hr></b><br>An experienced Business Analyst with a strong balance of technical expertise and soft skills.
 
 This page is a simple and small portfolio to showcase a selection of my technical abilities, including:
@@ -7,6 +7,13 @@ This page is a simple and small portfolio to showcase a selection of my technica
    - Proficiency in tools such as <b>SQL</b>, <b>Power BI</b>, and <b>Excel</b>.
   -  Developing effective <b>dashboards</b> and performing advanced analytics.
 </div>
+<p>
+<h align="left">Connect with me on LinkedIn</2>
+<p align="left">
+<a href="https://www.linkedin.com/in/marziyazdani/" target="_blank">
+        <img alt="LinkedIn" src="https://github.com/myazdanipour/Data-Visualisation/blob/main/images/LinkedIn_logo_initials.png" width=25 height=25></a>
+</p>
+
 
 <!---
 myazdanipour/myazdanipour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
